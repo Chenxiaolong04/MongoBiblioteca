@@ -1,0 +1,664 @@
+[
+  {
+    "_id": "6650000000000000000003E8",
+    "titolo": "Ipsam fuga veritatis at",
+    "anno_pubblicazione": 2008,
+    "autori": [
+      "665000000000000000000001"
+    ],
+    "genere": "6650000000000000000000A1",
+    "copie": [
+      {
+        "codice": "COP-000-0",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003E9",
+    "titolo": "Recusandae eius nam",
+    "anno_pubblicazione": 2000,
+    "autori": [
+      "665000000000000000000002"
+    ],
+    "genere": "6650000000000000000000A2",
+    "copie": [
+      {
+        "codice": "COP-001-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-001-1",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003EA",
+    "titolo": "Recusandae ipsum id",
+    "anno_pubblicazione": 1992,
+    "autori": [
+      "665000000000000000000003"
+    ],
+    "genere": "6650000000000000000000A3",
+    "copie": [
+      {
+        "codice": "COP-002-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-002-1",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003EB",
+    "titolo": "Inventore dolorum iste vel",
+    "anno_pubblicazione": 2010,
+    "autori": [
+      "665000000000000000000004"
+    ],
+    "genere": "6650000000000000000000A4",
+    "copie": [
+      {
+        "codice": "COP-003-0",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003EC",
+    "titolo": "Explicabo occaecati assumenda",
+    "anno_pubblicazione": 2023,
+    "autori": [
+      "665000000000000000000005"
+    ],
+    "genere": "6650000000000000000000A5",
+    "copie": [
+      {
+        "codice": "COP-004-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-004-1",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003ED",
+    "titolo": "Eos rerum ipsum",
+    "anno_pubblicazione": 1985,
+    "autori": [
+      "665000000000000000000006"
+    ],
+    "genere": "6650000000000000000000A6",
+    "copie": [
+      {
+        "codice": "COP-005-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-005-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-005-2",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-005-3",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003EE",
+    "titolo": "Ab error quisquam occaecati",
+    "anno_pubblicazione": 2017,
+    "autori": [
+      "665000000000000000000007"
+    ],
+    "genere": "6650000000000000000000A7",
+    "copie": [
+      {
+        "codice": "COP-006-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-006-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-006-2",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003EF",
+    "titolo": "Non incidunt quibusdam at libero",
+    "anno_pubblicazione": 1985,
+    "autori": [
+      "665000000000000000000008"
+    ],
+    "genere": "6650000000000000000000A8",
+    "copie": [
+      {
+        "codice": "COP-007-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-007-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-007-2",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F0",
+    "titolo": "Molestiae illo odio",
+    "anno_pubblicazione": 1992,
+    "autori": [
+      "665000000000000000000009"
+    ],
+    "genere": "6650000000000000000000A9",
+    "copie": [
+      {
+        "codice": "COP-008-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-008-1",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F1",
+    "titolo": "Blanditiis sunt",
+    "anno_pubblicazione": 1987,
+    "autori": [
+      "66500000000000000000000A"
+    ],
+    "genere": "6650000000000000000000AA",
+    "copie": [
+      {
+        "codice": "COP-009-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-009-1",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F2",
+    "titolo": "A id",
+    "anno_pubblicazione": 2001,
+    "autori": [
+      "66500000000000000000000B"
+    ],
+    "genere": "6650000000000000000000AB",
+    "copie": [
+      {
+        "codice": "COP-010-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-010-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-010-2",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-010-3",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F3",
+    "titolo": "Quae ipsam quia explicabo sit",
+    "anno_pubblicazione": 1982,
+    "autori": [
+      "66500000000000000000000C"
+    ],
+    "genere": "6650000000000000000000AC",
+    "copie": [
+      {
+        "codice": "COP-011-0",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F4",
+    "titolo": "Nisi alias recusandae",
+    "anno_pubblicazione": 1987,
+    "autori": [
+      "66500000000000000000000D"
+    ],
+    "genere": "6650000000000000000000AD",
+    "copie": [
+      {
+        "codice": "COP-012-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-012-1",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F5",
+    "titolo": "Modi blanditiis similique",
+    "anno_pubblicazione": 1985,
+    "autori": [
+      "66500000000000000000000E"
+    ],
+    "genere": "6650000000000000000000AE",
+    "copie": [
+      {
+        "codice": "COP-013-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-013-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-013-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F6",
+    "titolo": "Architecto similique eligendi",
+    "anno_pubblicazione": 1992,
+    "autori": [
+      "66500000000000000000000F"
+    ],
+    "genere": "6650000000000000000000AF",
+    "copie": [
+      {
+        "codice": "COP-014-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-014-1",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F7",
+    "titolo": "Nemo occaecati minus",
+    "anno_pubblicazione": 1993,
+    "autori": [
+      "665000000000000000000010"
+    ],
+    "genere": "6650000000000000000000B0",
+    "copie": [
+      {
+        "codice": "COP-015-0",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F8",
+    "titolo": "Veritatis molestiae qui temporibus",
+    "anno_pubblicazione": 2014,
+    "autori": [
+      "665000000000000000000011"
+    ],
+    "genere": "6650000000000000000000B1",
+    "copie": [
+      {
+        "codice": "COP-016-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-016-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-016-2",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-016-3",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003F9",
+    "titolo": "Eos fuga occaecati",
+    "anno_pubblicazione": 1984,
+    "autori": [
+      "665000000000000000000012"
+    ],
+    "genere": "6650000000000000000000B2",
+    "copie": [
+      {
+        "codice": "COP-017-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-017-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-017-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FA",
+    "titolo": "Commodi blanditiis illo",
+    "anno_pubblicazione": 1983,
+    "autori": [
+      "665000000000000000000013"
+    ],
+    "genere": "6650000000000000000000B3",
+    "copie": [
+      {
+        "codice": "COP-018-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-018-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-018-2",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-018-3",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FB",
+    "titolo": "Consequuntur pariatur explicabo labore",
+    "anno_pubblicazione": 1996,
+    "autori": [
+      "665000000000000000000014"
+    ],
+    "genere": "6650000000000000000000B4",
+    "copie": [
+      {
+        "codice": "COP-019-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-019-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-019-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FC",
+    "titolo": "Dolor laborum magnam laudantium",
+    "anno_pubblicazione": 1983,
+    "autori": [
+      "665000000000000000000015"
+    ],
+    "genere": "6650000000000000000000B5",
+    "copie": [
+      {
+        "codice": "COP-020-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-020-1",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FD",
+    "titolo": "Ipsam consequuntur",
+    "anno_pubblicazione": 2013,
+    "autori": [
+      "665000000000000000000016"
+    ],
+    "genere": "6650000000000000000000B6",
+    "copie": [
+      {
+        "codice": "COP-021-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-021-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-021-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FE",
+    "titolo": "Amet numquam ad iusto",
+    "anno_pubblicazione": 1980,
+    "autori": [
+      "665000000000000000000017"
+    ],
+    "genere": "6650000000000000000000B7",
+    "copie": [
+      {
+        "codice": "COP-022-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-022-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-022-2",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-022-3",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "6650000000000000000003FF",
+    "titolo": "Sed voluptatem",
+    "anno_pubblicazione": 2022,
+    "autori": [
+      "665000000000000000000018"
+    ],
+    "genere": "6650000000000000000000B8",
+    "copie": [
+      {
+        "codice": "COP-023-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-023-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-023-2",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000400",
+    "titolo": "Placeat quia",
+    "anno_pubblicazione": 1985,
+    "autori": [
+      "665000000000000000000019"
+    ],
+    "genere": "6650000000000000000000B9",
+    "copie": [
+      {
+        "codice": "COP-024-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-024-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-024-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000401",
+    "titolo": "Ab aliquam nulla voluptatum",
+    "anno_pubblicazione": 1995,
+    "autori": [
+      "66500000000000000000001A"
+    ],
+    "genere": "6650000000000000000000BA",
+    "copie": [
+      {
+        "codice": "COP-025-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-025-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-025-2",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-025-3",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000402",
+    "titolo": "Quas dolorem quibusdam",
+    "anno_pubblicazione": 1999,
+    "autori": [
+      "66500000000000000000001B"
+    ],
+    "genere": "6650000000000000000000BB",
+    "copie": [
+      {
+        "codice": "COP-026-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-026-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-026-2",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-026-3",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000403",
+    "titolo": "Deleniti inventore quaerat",
+    "anno_pubblicazione": 2024,
+    "autori": [
+      "66500000000000000000001C"
+    ],
+    "genere": "6650000000000000000000BC",
+    "copie": [
+      {
+        "codice": "COP-027-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-027-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-027-2",
+        "disponibile": true
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000404",
+    "titolo": "Cumque in tempore ipsa",
+    "anno_pubblicazione": 2020,
+    "autori": [
+      "66500000000000000000001D"
+    ],
+    "genere": "6650000000000000000000BD",
+    "copie": [
+      {
+        "codice": "COP-028-0",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-028-1",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-028-2",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-028-3",
+        "disponibile": false
+      }
+    ]
+  },
+  {
+    "_id": "665000000000000000000405",
+    "titolo": "Ut corporis et distinctio",
+    "anno_pubblicazione": 2024,
+    "autori": [
+      "66500000000000000000001E"
+    ],
+    "genere": "6650000000000000000000BE",
+    "copie": [
+      {
+        "codice": "COP-029-0",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-029-1",
+        "disponibile": true
+      },
+      {
+        "codice": "COP-029-2",
+        "disponibile": false
+      },
+      {
+        "codice": "COP-029-3",
+        "disponibile": true
+      }
+    ]
+  }
+]

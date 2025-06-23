@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "6650000000000000000007D0"
+    ,
+    "nome": "Rosina",
+    "cognome": "Pavanello",
+    "email": "guidonetullio@live.com",
+    "telefono": "+39 475 9382421",
+    "data_registrazione": "2022-08-09"
+  },
+  {
+    "_id": "6650000000000000000007D1"
+    ,
+    "nome": "Vito",
+    "cognome": "Comencini",
+    "email": "borgiavittoria@poste.it",
+    "telefono": "+39 815 6593877",
+    "data_registrazione": "2024-11-27"
+  },
+  {
+    "_id": "6650000000000000000007D2"
+    ,
+    "nome": "Giulio",
+    "cognome": "Blasi",
+    "email": "piacentinijolanda@abba.eu",
+    "telefono": "+39 1393 3287115",
+    "data_registrazione": "2024-10-17"
+  },
+  {
+    "_id": "6650000000000000000007D3"
+    ,
+    "nome": "Severino",
+    "cognome": "Cantimori",
+    "email": "isa18@poste.it",
+    "telefono": "+39 8398 94719659",
+    "data_registrazione": "2022-07-14"
+  },
+  {
+    "_id": "6650000000000000000007D4"
+    ,
+    "nome": "Jacopo",
+    "cognome": "Falier",
+    "email": "amedeoguinizzelli@bompiani-bruscantini.com",
+    "telefono": "+39 186 84 83 3969",
+    "data_registrazione": "2022-10-25"
+  },
+  {
+    "_id": "6650000000000000000007D5"
+    ,
+    "nome": "Roberto",
+    "cognome": "Surian",
+    "email": "mocenigodaria@tim.it",
+    "telefono": "+39 953 3041352",
+    "data_registrazione": "2023-04-21"
+  },
+  {
+    "_id": "6650000000000000000007D6"
+    ,
+    "nome": "Pompeo",
+    "cognome": "Blasi",
+    "email": "silviagaliazzo@udinesi.com",
+    "telefono": "+39 399 16 15 1090",
+    "data_registrazione": "2022-02-16"
+  },
+  {
+    "_id": "6650000000000000000007D7"
+    ,
+    "nome": "Fiorino",
+    "cognome": "Catalano",
+    "email": "lillabinaghi@libero.it",
+    "telefono": "+39 691 41314562",
+    "data_registrazione": "2020-12-28"
+  },
+  {
+    "_id": "6650000000000000000007D8"
+    ,
+    "nome": "Tiziano",
+    "cognome": "Schiavone",
+    "email": "perandagalasso@offredi-segre.net",
+    "telefono": "+39 0225 84197207",
+    "data_registrazione": "2023-12-17"
+  },
+  {
+    "_id": "6650000000000000000007D9"
+    ,
+    "nome": "Vittoria",
+    "cognome": "Tomasini",
+    "email": "osvaldo42@hotmail.it",
+    "telefono": "+39 0715 0842375",
+    "data_registrazione": "2022-12-03"
+  },
+  {
+    "_id": "6650000000000000000007DA"
+    ,
+    "nome": "Giada",
+    "cognome": "Oliboni",
+    "email": "osvaldo61@ferrabosco.com",
+    "telefono": "+39 37 6960696",
+    "data_registrazione": "2020-11-14"
+  },
+  {
+    "_id": "6650000000000000000007DB"
+    ,
+    "nome": "Ezio",
+    "cognome": "Rusticucci",
+    "email": "iolanda27@spinola.it",
+    "telefono": "+39 47 06381206",
+    "data_registrazione": "2024-01-10"
+  },
+  {
+    "_id": "6650000000000000000007DC"
+    ,
+    "nome": "Luchino",
+    "cognome": "Adinolfi",
+    "email": "accardopriscilla@trotta.it",
+    "telefono": "+39 3442 1761047",
+    "data_registrazione": "2021-06-16"
+  },
+  {
+    "_id": "6650000000000000000007DD"
+    ,
+    "nome": "Sophia",
+    "cognome": "Guariento",
+    "email": "damiano24@basso.net",
+    "telefono": "+39 4855 9097765",
+    "data_registrazione": "2025-01-18"
+  },
+  {
+    "_id": "6650000000000000000007DE"
+    ,
+    "nome": "Ferdinando",
+    "cognome": "Foletti",
+    "email": "agnolo22@fastwebnet.it",
+    "telefono": "+39 55 15900422",
+    "data_registrazione": "2025-06-08"
+  },
+  {
+    "_id": "6650000000000000000007DF"
+    ,
+    "nome": "Jacopo",
+    "cognome": "Onisto",
+    "email": "landocarosone@live.com",
+    "telefono": "+39 3042 8146546",
+    "data_registrazione": "2021-05-25"
+  },
+  {
+    "_id": "6650000000000000000007E0"
+    ,
+    "nome": "Cirillo",
+    "cognome": "Zamengo",
+    "email": "zmorellato@poste.it",
+    "telefono": "+39 717 60 45 2296",
+    "data_registrazione": "2021-03-19"
+  },
+  {
+    "_id": "6650000000000000000007E1"
+    ,
+    "nome": "Baccio",
+    "cognome": "Brenna",
+    "email": "augustopavanello@cainero.it",
+    "telefono": "+39 477 93615349",
+    "data_registrazione": "2021-11-21"
+  },
+  {
+    "_id": "6650000000000000000007E2"
+    ,
+    "nome": "Puccio",
+    "cognome": "Ferrabosco",
+    "email": "boccacciopina@libero.it",
+    "telefono": "+39 731 76430392",
+    "data_registrazione": "2021-05-13"
+  },
+  {
+    "_id": "6650000000000000000007E3"
+    ,
+    "nome": "Gaetano",
+    "cognome": "Satta",
+    "email": "alina21@tele2.it",
+    "telefono": "+39 296 6875773",
+    "data_registrazione": "2025-02-02"
+  },
+  {
+    "_id": "6650000000000000000007E4"
+    ,
+    "nome": "Cristina",
+    "cognome": "Galiazzo",
+    "email": "isa55@trillini.org",
+    "telefono": "+39 269 47118013",
+    "data_registrazione": "2021-08-01"
+  },
+  {
+    "_id": "6650000000000000000007E5"
+    ,
+    "nome": "Annibale",
+    "cognome": "Mantegna",
+    "email": "kmontalti@scaduto.it",
+    "telefono": "+39 880 9189163",
+    "data_registrazione": "2022-12-08"
+  },
+  {
+    "_id": "6650000000000000000007E6"
+    ,
+    "nome": "Adelasia",
+    "cognome": "Procacci",
+    "email": "zgiannotti@libero.it",
+    "telefono": "+39 0248 9451744",
+    "data_registrazione": "2023-12-11"
+  },
+  {
+    "_id": "6650000000000000000007E7"
+    ,
+    "nome": "Oreste",
+    "cognome": "Passalacqua",
+    "email": "evacendron@ludovisi.com",
+    "telefono": "+39 762 79 12 5609",
+    "data_registrazione": "2024-06-09"
+  },
+  {
+    "_id": "6650000000000000000007E8"
+    ,
+    "nome": "Orlando",
+    "cognome": "Sauli",
+    "email": "semitecolomelania@aporti.it",
+    "telefono": "+39 251 85367109",
+    "data_registrazione": "2024-06-12"
+  },
+  {
+    "_id": "6650000000000000000007E9"
+    ,
+    "nome": "Diana",
+    "cognome": "Moresi",
+    "email": "milena26@cassara-travaglio.com",
+    "telefono": "+39 6753 75100740",
+    "data_registrazione": "2024-11-23"
+  },
+  {
+    "_id": "6650000000000000000007EA"
+    ,
+    "nome": "Gelsomina",
+    "cognome": "Gaggini",
+    "email": "tebaldiilaria@pugliese.com",
+    "telefono": "+39 961 1611620",
+    "data_registrazione": "2024-04-09"
+  },
+  {
+    "_id": "6650000000000000000007EB"
+    ,
+    "nome": "Puccio",
+    "cognome": "Priuli",
+    "email": "umocenigo@bossi-niggli.com",
+    "telefono": "+39 05 52035192",
+    "data_registrazione": "2022-03-30"
+  },
+  {
+    "_id": "6650000000000000000007EC"
+    ,
+    "nome": "Adamo",
+    "cognome": "Flaiano",
+    "email": "magnaninanni@armellini.it",
+    "telefono": "+39 754 20 35 5744",
+    "data_registrazione": "2025-03-06"
+  },
+  {
+    "_id": "6650000000000000000007ED"
+    ,
+    "nome": "Erika",
+    "cognome": "Molesini",
+    "email": "camillerivittorio@marzorati.com",
+    "telefono": "+39 3583 32456029",
+    "data_registrazione": "2020-08-24"
+  }
+]

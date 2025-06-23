@@ -1,0 +1,272 @@
+[
+  {
+    "_id":"665000000000000000000BB8" ,
+    "utente_id":"6650000000000000000007D0" ,
+    "libro_id":"6650000000000000000003E8" ,
+    "data_prestito": "2024-04-23",
+    "data_restituzione_prevista": "2024-06-01",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BB9" ,
+    "utente_id":"6650000000000000000007D1" ,
+    "libro_id":"6650000000000000000003E9" ,
+    "data_prestito": "2023-08-22",
+    "data_restituzione_prevista": "2023-09-08",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BBA" ,
+    "utente_id":"6650000000000000000007D2" ,
+    "libro_id":"6650000000000000000003EA" ,
+    "data_prestito": "2024-05-15",
+    "data_restituzione_prevista": "2024-06-15",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-06-10"
+  },
+  {
+    "_id":"665000000000000000000BBB" ,
+    "utente_id":"6650000000000000000007D3" ,
+    "libro_id":"6650000000000000000003EB" ,
+    "data_prestito": "2024-01-10",
+    "data_restituzione_prevista": "2024-03-10",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BBC" ,
+    "utente_id":"6650000000000000000007D4" ,
+    "libro_id":"6650000000000000000003EC" ,
+    "data_prestito": "2023-11-05",
+    "data_restituzione_prevista": "2023-12-05",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-11-28"
+  },
+  {
+    "_id":"665000000000000000000BBD" ,
+    "utente_id":"6650000000000000000007D5" ,
+    "libro_id":"6650000000000000000003ED" ,
+    "data_prestito": "2024-02-14",
+    "data_restituzione_prevista": "2024-03-14",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-03-20"
+  },
+  {
+    "_id":"665000000000000000000BBE" ,
+    "utente_id":"6650000000000000000007D6" ,
+    "libro_id":"6650000000000000000003EE" ,
+    "data_prestito": "2023-09-01",
+    "data_restituzione_prevista": "2023-10-01",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-09-25"
+  },
+  {
+    "_id":"665000000000000000000BBF" ,
+    "utente_id":"6650000000000000000007D7" ,
+    "libro_id":"6650000000000000000003EF" ,
+    "data_prestito": "2024-03-18",
+    "data_restituzione_prevista": "2024-04-18",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BC0" ,
+    "utente_id":"6650000000000000000007D8" ,
+    "libro_id":"6650000000000000000003F0" ,
+    "data_prestito": "2023-12-10",
+    "data_restituzione_prevista": "2024-02-10",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-02-05"
+  },
+  {
+    "_id":"665000000000000000000BC1" ,
+    "utente_id":"6650000000000000000007D9" ,
+    "libro_id":"6650000000000000000003F1" ,
+    "data_prestito": "2024-04-05",
+    "data_restituzione_prevista": "2024-05-05",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BC2" ,
+    "utente_id":"6650000000000000000007DA" ,
+    "libro_id":"6650000000000000000003F2" ,
+    "data_prestito": "2023-10-15",
+    "data_restituzione_prevista": "2023-11-15",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-11-10"
+  },
+  {
+    "_id":"665000000000000000000BC3" ,
+    "utente_id":"6650000000000000000007DB" ,
+    "libro_id":"6650000000000000000003F3" ,
+    "data_prestito": "2024-01-20",
+    "data_restituzione_prevista": "2024-03-20",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BC4" ,
+    "utente_id":"6650000000000000000007DC" ,
+    "libro_id":"6650000000000000000003F4" ,
+    "data_prestito": "2023-07-12",
+    "data_restituzione_prevista": "2023-08-12",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-08-15"
+  },
+  {
+    "_id":"665000000000000000000BC5" ,
+    "utente_id":"6650000000000000000007DD" ,
+    "libro_id":"6650000000000000000003F5" ,
+    "data_prestito": "2024-02-28",
+    "data_restituzione_prevista": "2024-03-28",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-03-25"
+  },
+  {
+    "_id":"665000000000000000000BC6" ,
+    "utente_id":"6650000000000000000007DE" ,
+    "libro_id":"6650000000000000000003F6" ,
+    "data_prestito": "2023-11-30",
+    "data_restituzione_prevista": "2024-01-30",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BC7" ,
+    "utente_id":"6650000000000000000007DF" ,
+    "libro_id":"6650000000000000000003F7" ,
+    "data_prestito": "2024-04-10",
+    "data_restituzione_prevista": "2024-05-10",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-05-05"
+  },
+  {
+    "_id":"665000000000000000000BC8" ,
+    "utente_id":"6650000000000000000007E0" ,
+    "libro_id":"6650000000000000000003F8" ,
+    "data_prestito": "2023-09-18",
+    "data_restituzione_prevista": "2023-10-18",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-10-20"
+  },
+  {
+    "_id":"665000000000000000000BC9" ,
+    "utente_id":"6650000000000000000007E1" ,
+    "libro_id":"6650000000000000000003F9" ,
+    "data_prestito": "2024-03-05",
+    "data_restituzione_prevista": "2024-04-05",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BCA" ,
+    "utente_id":"6650000000000000000007E2" ,
+    "libro_id":"6650000000000000000003FA" ,
+    "data_prestito": "2023-12-22",
+    "data_restituzione_prevista": "2024-01-22",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-01-18"
+  },
+  {
+    "_id":"665000000000000000000BCB" ,
+    "utente_id":"6650000000000000000007E3" ,
+    "libro_id":"6650000000000000000003FB" ,
+    "data_prestito": "2024-01-15",
+    "data_restituzione_prevista": "2024-02-15",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BCC" ,
+    "utente_id":"6650000000000000000007E4" ,
+    "libro_id":"6650000000000000000003FC" ,
+    "data_prestito": "2023-08-05",
+    "data_restituzione_prevista": "2023-09-05",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-09-10"
+  },
+  {
+    "_id":"665000000000000000000BCD" ,
+    "utente_id":"6650000000000000000007E5" ,
+    "libro_id":"6650000000000000000003FD" ,
+    "data_prestito": "2024-02-10",
+    "data_restituzione_prevista": "2024-04-10",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-04-05"
+  },
+  {
+    "_id":"665000000000000000000BCE" ,
+    "utente_id":"6650000000000000000007E6" ,
+    "libro_id":"6650000000000000000003FE" ,
+    "data_prestito": "2023-10-28",
+    "data_restituzione_prevista": "2023-11-28",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BCF" ,
+    "utente_id":"6650000000000000000007E7" ,
+    "libro_id":"6650000000000000000003FF" ,
+    "data_prestito": "2024-03-15",
+    "data_restituzione_prevista": "2024-04-15",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-04-12"
+  },
+  {
+    "_id":"665000000000000000000BD0" ,
+    "utente_id":"6650000000000000000007E8" ,
+    "libro_id":"665000000000000000000400" ,
+    "data_prestito": "2023-11-20",
+    "data_restituzione_prevista": "2023-12-20",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-12-15"
+  },
+  {
+    "_id":"665000000000000000000BD1" ,
+    "utente_id":"6650000000000000000007E9" ,
+    "libro_id":"665000000000000000000401" ,
+    "data_prestito": "2024-01-05",
+    "data_restituzione_prevista": "2024-02-05",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BD2" ,
+    "utente_id":"6650000000000000000007EA" ,
+    "libro_id":"665000000000000000000402" ,
+    "data_prestito": "2023-09-10",
+    "data_restituzione_prevista": "2023-10-10",
+    "restituito": true,
+    "data_restituzione_effettiva": "2023-10-05"
+  },
+  {
+    "_id":"665000000000000000000BD3" ,
+    "utente_id":"6650000000000000000007EB" ,
+    "libro_id":"665000000000000000000403" ,
+    "data_prestito": "2024-04-01",
+    "data_restituzione_prevista": "2024-05-01",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  },
+  {
+    "_id":"665000000000000000000BD4" ,
+    "utente_id":"6650000000000000000007EC" ,
+    "libro_id":"665000000000000000000404" ,
+    "data_prestito": "2023-12-15",
+    "data_restituzione_prevista": "2024-01-15",
+    "restituito": true,
+    "data_restituzione_effettiva": "2024-01-10"
+  },
+  {
+    "_id":"665000000000000000000BD5" ,
+    "utente_id":"6650000000000000000007ED" ,
+    "libro_id":"665000000000000000000405" ,
+    "data_prestito": "2024-02-20",
+    "data_restituzione_prevista": "2024-03-20",
+    "restituito": false,
+    "data_restituzione_effettiva": null
+  }
+]
